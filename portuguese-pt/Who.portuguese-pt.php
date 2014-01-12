@@ -152,5 +152,5 @@ $txt['credits_groups_language'] = 'Tradução em português de Portugal';
 
 // List of people who have made more than a token contribution to this translation. (See Who.french.php for an example.)
 $txt['translation_credits'] = array(
-	'Tradução em português de Portugal por <a href="http://wedge.org/profile/kimikelku/"target="_blank">kimikelku</a>. Copyright © 2014. Versão em constantes revisões.
+	'Tradução em português de Portugal por <a href="http://wedge.org/profile/kimikelku/"target="_blank">kimikelku</a>. Copyright © 2014. Versão em constantes revisões.'
 );
