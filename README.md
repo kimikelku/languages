@@ -1,4 +1,4 @@
-languages
+Wedge PT_pt
 =========
 
 Este repositório contém a tradução do software de fórum Wedge para Português de Portugal
