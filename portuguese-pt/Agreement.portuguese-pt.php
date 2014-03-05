@@ -13,4 +13,4 @@ Depois de registar e efetuar o login neste fórum, será capaz de preencher um p
 
 A cada publicação, o seu endereço de IP fica gravado, para a eventualidade de ser banido do fórum ou para contactarmos o seu ISP. Isso só acontecerá no caso de uma violação grave deste acordo.
 
-Observe também que o software coloca um cookie , um arquivo de texto contendo bits de informação (como o username e a password) no cache do seu browser. Isto só é utilizado para manter a sua sessão ligada. O software não recolhe nem envia qualquer outro tipo de informação para o seu computador.'
+Observe também que o software coloca um cookie , um arquivo de texto contendo bits de informação (como o username e a password) no cache do seu browser. Isto só é utilizado para manter a sua sessão ligada. O software não recolhe nem envia qualquer outro tipo de informação para o seu computador.';
