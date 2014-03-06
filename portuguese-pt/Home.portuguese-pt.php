@@ -4,7 +4,7 @@
 
 $txt['home_title'] = 'Isto somos nós.';
 $txt['home_intro'] = '
-			Isto fórum utiliza o Wedge, uma plataforma de construção de fóruns desenvolvido em PHP 5.
+			Este fórum utiliza o Wedge, uma plataforma de construção de fóruns desenvolvido em PHP 5.
 			<br><br>
 			<em>De forma a editar esta sinopse, deve clonar os seguintes ficheiros:
 			Sources\Home.php, Templates\Home.template.php, languages\Home.*.php.
